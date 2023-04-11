@@ -1,6 +1,10 @@
 # Jogo-da-vida-Algoritmos
 
-Analisa .txt e faz mudanças baseados nele
+Analisa .txt e faz mudanças baseados nele 
+
+Se a celula analisada estiver morta ela revive caso tenha 3 vizinhos vivos;
+
+Se a celula analisada estiver viva ela morre 
 
 Input:
 
